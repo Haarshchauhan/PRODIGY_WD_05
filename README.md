@@ -1,11 +1,15 @@
 
-I'm thrilled to share Task 03 from the web development internship at Prodigy InfoTech. 🌟
+Hello everyone!!!
 
-Key Features:
-1️⃣ Smooth transitions and animations
-2️⃣ Easy reset and new game options
-3️⃣ Clear winner and draw notifications
+I’m thrilled to share that I’ve successfully completed my fifth task as a Web Development Intern at Prodigy InfoTech! 🚀
 
-The game features a sleek design, smooth animations, and a user-friendly interface. It's a fun and simple way to enjoy some classic gaming on the web.
+✨ Task Details:
+I developed a Weather App using HTML, CSS, and JavaScript. The application allows users to get the current weather and an 8-hour forecast for any city. The functionalities include:
+1️⃣ City Weather Search: Users can enter a city name to get the current weather details and an hourly forecast.
+2️⃣ Real-Time Weather Data: Fetches and displays the temperature, weather description, and wind speed.
+3️⃣ 8-Hour Forecast: Provides an 8-hour weather forecast with temperature and weather icons.
+4️⃣ Error Handling: Alerts users if the city name is invalid or if there is an issue fetching data.
+
+To build this, I implemented functions to handle user input, fetch weather data from the OpenWeatherMap API, and display the data dynamically on the webpage.
 
 
